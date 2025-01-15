@@ -22,7 +22,7 @@
 
 <div align="center">
     <a href="https://t.me/ewewezze" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="https://www.instagram.com/ewewezze/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
