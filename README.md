@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Bae</h1>
+<h1 align="center">Hello, i'm Bae!</h1>
 
 <img align="right" width="250" src="https://github.com/Bae-Kabirov/Bae-Kabirov/blob/master/code.gif" alt="code GIF"/>
 
@@ -9,10 +9,9 @@
   - an easy learner <br/>
   - punctual <br/>
   - strive for perfection <br/>
-  I will be glad to cooperate with you ♥.
+<br/>
 </h3>
-<br/>
-<br/>
+<h3 align="center">I will be glad to cooperate with you ♥.</h3>
 <br/>
 <h2 align="center">Language & Tools</h2>
 
