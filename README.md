@@ -26,10 +26,8 @@
     </a>
     <a href="https://www.instagram.com/ewewezze/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
-    <a href="mailto:talkingtom32203@mail.ru" target="_blank">
-      <img src="https://img.shields.io/badge/Mail.Ru-black?style=for-the-badge&logo=mail.ru" alt="Mail.Ru"/></a>
-    </a>
     <a href="https://vk.com/ewewezze" target="_blank">
       <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=Vk" alt="VK"/></a>
     </a>
+[Email Me](mailto:contact@bookinist.in)
 </div>
