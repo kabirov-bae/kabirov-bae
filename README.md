@@ -3,7 +3,13 @@
 <img align="right" width="250" src="https://github.com/Bae-Kabirov/Bae-Kabirov/blob/master/code.gif" alt="code GIF"/>
 
 <h4>
-  I am a young front-end developer. I have experience working with HTML, CSS, and JavaScript, as well as modern frameworks such as React or Vue.  I like to solve complex problems and work in a team to create high-quality and effective web applications. I will be glad to have the opportunity to cooperate and share experiences!
+  I am a Web and Front-end developer. I have three years of work experience. I'm <br/>
+  - responsible <br/>
+  - sociable <br/>
+  - an easy learner <br/>
+  - punctual <br/>
+  - strive for perfection <br/>
+  I will be glad to cooperate with you ♥.
 </h4>
 <br/>
 <br/>
