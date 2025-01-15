@@ -29,5 +29,6 @@
     <a href="https://vk.com/ewewezze" target="_blank">
       <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=Vk" alt="VK"/></a>
     </a>
-[Email Me](mailto:contact@bookinist.in)
 </div>
+
+[Email Me](mailto:contact@bookinist.in)
