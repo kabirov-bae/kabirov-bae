@@ -2,7 +2,7 @@
 
 <img align="right" width="250" src="https://github.com/Bae-Kabirov/Bae-Kabirov/blob/master/code.gif" alt="code GIF"/>
 
-<h4>
+<h3>
   I am a Web and Front-end developer. I have three years of work experience. I'm <br/>
   - responsible <br/>
   - sociable <br/>
@@ -10,7 +10,7 @@
   - punctual <br/>
   - strive for perfection <br/>
   I will be glad to cooperate with you ♥.
-</h4>
+</h3>
 <br/>
 <br/>
 <br/>
