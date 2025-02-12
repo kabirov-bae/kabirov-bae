@@ -17,8 +17,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,php,vue,gulp,webpack" /><br>
-    <img src="https://skillicons.dev/icons?i=wordpress,github,gitlab,git,vscode,atom,figma,obsidian,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,php,vue," /><br>
+    <img src="https://skillicons.dev/icons?i=gulp,webpack,wordpress,github,gitlab,git,vscode,figma," /><br>
 </div>
 
 <h2 align="center">Contact Me</h2>
