@@ -24,7 +24,7 @@
 
 <br/>
 
-<div align="center">
+<div>
     <a href="https://t.me/ewewezze" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
     </a>
