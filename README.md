@@ -12,10 +12,10 @@
 </h3>
 <h3 align="center">I will be glad to cooperate with you ♥.</h3>
 
-<section class="sect">
+<section style="margin-top: 300px;">
 <h2 align="center">Language & Tools</h2>
 
-  <div style="display: flex; gap: 20px; justify-content: center;">
+  <div align="center">
     <img src="./img/css.svg" width="50" alt="css"/>
     <img src="./img/javascript.svg" width="50" alt="JavaScript"/>
     <img src="./img/typescript.svg" width="50" alt="TypeScript"/>
@@ -44,14 +44,3 @@
       <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=Vk" alt="VK"/></a>
     </a>
 </div>
-
-<style>
-  .sect{
-    margin: 200px 40px;
-    border: 1px solid white;
-  }
-
-  .sect:hover{
-    background: #000;
-  }
-</style>
