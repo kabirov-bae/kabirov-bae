@@ -17,12 +17,10 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,php,vue,gulp,webpack,wordpress,github,gitlab,git,vscode,figma" /><br>
+ <img src="./img/css.svg" width="" alt=""/>
 </div>
 
-<h2 align="center">Contact Me</h2>
-
-<br/>
+<h2>Contact Me</h2>
 
 <div>
     <a href="https://t.me/ewewezze" target="_blank">
