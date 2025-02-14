@@ -12,9 +12,9 @@
 </h3>
 <h3 align="center">I will be glad to cooperate with you ♥.</h3>
 
-<section style="margin-top: 300px;">
-<h2 align="center">Language & Tools</h2>
-
+<br/>
+<section>
+  <h2 align="center">Language & Tools</h2>
   <div align="center">
     <img src="./img/css.svg" width="50" alt="css"/>
     <img src="./img/javascript.svg" width="50" alt="JavaScript"/>
@@ -28,6 +28,7 @@
     <img src="./img/npm.svg" width="50" alt="npm"/>
   </div>
 </section>
+<br/>
 
 <h2>Contact Me</h2>
 
