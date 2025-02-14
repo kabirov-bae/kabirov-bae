@@ -9,23 +9,25 @@
   - an easy learner <br/>
   - punctual <br/>
   - strive for perfection <br/>
-<br/>
 </h3>
 <h3 align="center">I will be glad to cooperate with you ♥.</h3>
-<br/>
+
+<section class="sect">
 <h2 align="center">Language & Tools</h2>
 
-<br/>
-<div align="center">
- <img src="./img/css.svg" width="50" alt="css"/>
- <img src="./img/git.svg" width="50" alt="Git"/>
- <img src="./img/gulp.svg" width="50" alt="Gulp"/>
- <img src="./img/javascript.svg" width="50" alt="JavaScript"/>
- <img src="./img/jquery.svg" width="50" alt="Jquery"/>
- <img src="./img/npm.svg" width="50" alt="npm"/>
- <img src="./img/webpack.svg" width="50" alt="WebPack"/>
- <img src="./img/wordpress.svg" width="50" alt="Wordpress"/>
-</div>
+  <div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="./img/css.svg" width="50" alt="css"/>
+    <img src="./img/javascript.svg" width="50" alt="JavaScript"/>
+    <img src="./img/typescript.svg" width="50" alt="TypeScript"/>
+    <img src="./img/jquery.svg" width="50" alt="Jquery"/>
+    <img src="./img/vue.svg" width="50" alt="Vue"/>
+    <img src="./img/gulp.svg" width="50" alt="Gulp"/>
+    <img src="./img/wordpress.svg" width="50" alt="Wordpress"/>
+    <img src="./img/webpack.svg" width="50" alt="WebPack"/>
+    <img src="./img/git.svg" width="50" alt="Git"/>
+    <img src="./img/npm.svg" width="50" alt="npm"/>
+  </div>
+</section>
 
 <h2>Contact Me</h2>
 
@@ -42,3 +44,14 @@
       <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=Vk" alt="VK"/></a>
     </a>
 </div>
+
+<style>
+  .sect{
+    margin: 200px 40px;
+    border: 1px solid white;
+  }
+
+  .sect:hover{
+    background: #000;
+  }
+</style>
