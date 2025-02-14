@@ -17,7 +17,14 @@
 
 <br/>
 <div align="center">
- <img src="./img/css.svg" width="" alt=""/>
+ <img src="./img/css.svg" width="50" alt="css"/>
+ <img src="./img/git.svg" width="50" alt="Git"/>
+ <img src="./img/gulp.svg" width="50" alt="Gulp"/>
+ <img src="./img/javascript.svg" width="50" alt="JavaScript"/>
+ <img src="./img/jquery.svg" width="50" alt="Jquery"/>
+ <img src="./img/npm.svg" width="50" alt="npm"/>
+ <img src="./img/webpack.svg" width="50" alt="WebPack"/>
+ <img src="./img/wordpress.svg" width="50" alt="Wordpress"/>
 </div>
 
 <h2>Contact Me</h2>
