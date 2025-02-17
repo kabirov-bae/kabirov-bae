@@ -15,8 +15,9 @@
 <br/>
 <section>
   <h2 align="center">Languages & Tools</h2>
-  <div>
+  <div align="center">
     <img src="./img/css.svg" width="70" alt="css"/>
+    <p></p>
     <img src="./img/javascript.svg" width="70" alt="JavaScript"/>
     <img src="./img/typescript.svg" width="70" alt="TypeScript"/>
     <img src="./img/jquery.svg" width="70" alt="Jquery"/>
