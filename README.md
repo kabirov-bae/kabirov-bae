@@ -34,14 +34,14 @@
 
 <div>
     <a href="https://t.me/ewewezze" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-%23ECDBBA?style=for-the-badge&logo=Telegram&logoColor=%23282A36" alt="Telegram"/>
     </a>
     <a href="https://www.instagram.com/ewewezze/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+      <img src="https://img.shields.io/badge/Instagram-%23ECDBBA?style=for-the-badge&logo=Instagram&logoColor=%23282A36" alt="Instagram"/></a>
     <a href="mailto:talkingtom32203@mail.ru" target="_blank">
-      <img src="https://img.shields.io/badge/Mail.Ru-black?style=for-the-badge&logo=mail.ru" alt="Mail.Ru"/></a>
+      <img src="https://img.shields.io/badge/Mail.ru-%23ECDBBA?style=for-the-badge&logo=Mail.ru&logoColor=%23282A36" alt="Mail.Ru"/></a>
     </a>
     <a href="https://vk.com/ewewezze" target="_blank">
-      <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=Vk" alt="VK"/></a>
+      <img src="https://img.shields.io/badge/VK-%23ECDBBA?style=for-the-badge&logo=VK&logoColor=%23282A36" alt="VK"/></a>
     </a>
 </div>
