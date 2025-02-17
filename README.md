@@ -16,16 +16,16 @@
 <section>
   <h2 align="center">Language & Tools</h2>
   <div align="center">
-    <img src="./img/css.svg" width="50" alt="css"/>
-    <img src="./img/javascript.svg" width="50" alt="JavaScript"/>
-    <img src="./img/typescript.svg" width="50" alt="TypeScript"/>
-    <img src="./img/jquery.svg" width="50" alt="Jquery"/>
-    <img src="./img/vue.svg" width="50" alt="Vue"/>
-    <img src="./img/gulp.svg" width="50" alt="Gulp"/>
-    <img src="./img/wordpress.svg" width="50" alt="Wordpress"/>
-    <img src="./img/webpack.svg" width="50" alt="WebPack"/>
-    <img src="./img/git.svg" width="50" alt="Git"/>
-    <img src="./img/npm.svg" width="50" alt="npm"/>
+    <img src="./img/css.svg" width="70" alt="css"/>
+    <img src="./img/javascript.svg" width="70" alt="JavaScript"/>
+    <img src="./img/typescript.svg" width="70" alt="TypeScript"/>
+    <img src="./img/jquery.svg" width="70" alt="Jquery"/>
+    <img src="./img/vue.svg" width="70" alt="Vue"/>
+    <img src="./img/gulp.svg" width="70" alt="Gulp"/>
+    <img src="./img/wordpress.svg" width="70" alt="Wordpress"/>
+    <img src="./img/webpack.svg" width="70" alt="WebPack"/>
+    <img src="./img/git.svg" width="70" alt="Git"/>
+    <img src="./img/npm.svg" width="70" alt="npm"/>
   </div>
 </section>
 <br/>
