@@ -21,6 +21,7 @@
     <img src="./img/typescript.svg" width="70" alt="TypeScript"/>
     <img src="./img/jquery.svg" width="70" alt="Jquery"/>
     <img src="./img/vue.svg" width="70" alt="Vue"/>
+    <br>
     <img src="./img/gulp.svg" width="70" alt="Gulp"/>
     <img src="./img/wordpress.svg" width="70" alt="Wordpress"/>
     <img src="./img/webpack.svg" width="70" alt="WebPack"/>
