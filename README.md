@@ -1,6 +1,4 @@
-<h1 align="center">Hello, i'm Bae!</h1>
-
-<img align="right" width="250" src="https://github.com/Bae-Kabirov/Bae-Kabirov/blob/master/code.gif" alt="code GIF"/>
+<h1>Hello, i'm Bae!</h1>
 
 <h3>
   I am a Web and Front-end developer. I have three years of work experience. I'm <br/>
@@ -13,22 +11,22 @@
 <h3 align="center">I will be glad to cooperate with you ♥.</h3>
 
 <br/>
-<section>
-  <h2 align="center">Languages & Tools</h2>
-  <div align="center">
-    <img src="./img/css.svg" width="70" alt="css"/>  
-    <img src="./img/javascript.svg" width="70" alt="JavaScript"/>
-    <img src="./img/typescript.svg" width="70" alt="TypeScript"/>
-    <img src="./img/jquery.svg" width="70" alt="Jquery"/>
-    <img src="./img/vue.svg" width="70" alt="Vue"/>
-    <br>
-    <img src="./img/gulp.svg" width="70" alt="Gulp"/>
-    <img src="./img/wordpress.svg" width="70" alt="Wordpress"/>
-    <img src="./img/webpack.svg" width="70" alt="WebPack"/>
-    <img src="./img/git.svg" width="70" alt="Git"/>
-    <img src="./img/npm.svg" width="70" alt="npm"/>
-  </div>
-</section>
+
+<h2>Languages & Tools</h2>
+
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-%23ECDBBA?style=for-the-badge&logo=CSS&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23ECDBBA?style=for-the-badge&logo=javascript&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/typescript-%23ECDBBA?style=for-the-badge&logo=typescript&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/jquery-%23ECDBBA?style=for-the-badge&logo=jquery&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/vue.js-%23ECDBBA?style=for-the-badge&logo=vue.js&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/gulp.js-%23ECDBBA?style=for-the-badge&logo=gulp&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/wordpress-%23ECDBBA?style=for-the-badge&logo=wordpress&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/webpack-%23ECDBBA?style=for-the-badge&logo=webpack&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/git-%23ECDBBA?style=for-the-badge&logo=git&logoColor=%23282A36">
+<img alt="Static Badge" src="https://img.shields.io/badge/npm-%23ECDBBA?style=for-the-badge&logo=npm&logoColor=%23282A36">
+</div>
+
 <br/>
 
 <h2>Contact Me</h2>
