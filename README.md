@@ -1,16 +1,4 @@
-<h1>Hello, i'm Bae!</h1>
-
-<h3>
-  I am a Web and Front-end developer. I have three years of work experience. I'm <br/>
-  - responsible <br/>
-  - sociable <br/>
-  - an easy learner <br/>
-  - punctual <br/>
-  - strive for perfection <br/>
-</h3>
-<h3 align="center">I will be glad to cooperate with you ♥.</h3>
-
-<br/>
+<h1>Hi, i'm Bae!</h1>
 
 <h2>Languages & Tools</h2>
 
