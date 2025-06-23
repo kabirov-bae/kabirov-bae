@@ -1,5 +1,7 @@
 <h1>Hi, i'm Bae!</h1>
 
+i use windows btw...
+
 <h2>Languages & Tools</h2>
 
 <div>
